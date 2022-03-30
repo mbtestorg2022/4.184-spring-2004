@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Sequence Two: Expansion.'
   credit: Image courtesy of Jelena Pejkovic.
   image-alt: 'Sequence Two: Expansion.'
+parent_uid: 855ff769-9e1e-4ff7-5e9b-2416fa3c27b1
 resourcetype: Image
 title: Slide13.jpg
 uid: ba657f12-2f36-9b5e-e914-49a99e135c31

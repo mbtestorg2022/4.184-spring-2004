@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Sequence One: Extraction.'
   credit: Image courtesy of Christopher Kempster.
   image-alt: 'Sequence One: Extraction.'
+parent_uid: 855ff769-9e1e-4ff7-5e9b-2416fa3c27b1
 resourcetype: Image
 title: Slide2.jpg
 uid: 9b09e1b2-b78b-f876-0be2-7376603f118c

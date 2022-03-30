@@ -8,6 +8,7 @@ image_metadata:
   caption: 'Sequence One: Extraction.'
   credit: Image courtesy of Jelena Pejkovic and Pablo Wenceslao.
   image-alt: 'Sequence One: Extraction.'
+parent_uid: 855ff769-9e1e-4ff7-5e9b-2416fa3c27b1
 resourcetype: Image
 title: Slide5.jpg
 uid: a27b6c78-4811-b625-238e-fb0111c29672

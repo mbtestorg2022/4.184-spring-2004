@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Sequence Three: Relational.'
   credit: Image courtesy of Christopher Kempster.
   image-alt: 'Sequence Three: Relational.'
+parent_uid: 855ff769-9e1e-4ff7-5e9b-2416fa3c27b1
 resourcetype: Image
 title: Slide15.jpg
 uid: 6fd0c07b-a21e-20a1-b1ee-c73dec48c68e

@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Sequence Three: Relational.'
   credit: Image courtesy of Kwan Chan.
   image-alt: 'Sequence Three: Relational.'
+parent_uid: 855ff769-9e1e-4ff7-5e9b-2416fa3c27b1
 resourcetype: Image
 title: Slide17.jpg
 uid: 9315b46d-2e68-4522-b2cc-cc8dd20c5eb6
